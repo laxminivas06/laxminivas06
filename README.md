@@ -1,18 +1,22 @@
-<h1 align="center">⚡ LAXMINIVAS MORISHETTY ⚡</h1>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=260&section=header&text=LAXMINIVAS%20MORISHETTY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Education%20|%20Innovation%20|%20Entrepreneurship&descAlignY=55&descSize=20" />
+
+</div>
+
+---
+
+<h1 align="center">⚡ Innovator • Creator • Entrepreneur ⚡</h1>
 
 <h3 align="center">
-Education | Innovation | Entrepreneurship
+Building impactful solutions through technology, education, and innovation.
 </h3>
-
-<p align="center">
-Innovator • Designer • Developer • Visionary Creator
-</p>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Innovator+%26+Entrepreneur;Cybersecurity+Engineering+Student;Building+Technology+for+Impact;Education+%7C+Innovation+%7C+Leadership;Creating+Meaningful+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Automation+Builder;Founder+of+Multiple+Organizations;Passionate+Innovator" />
 
 </div>
 
@@ -22,154 +26,104 @@ Innovator • Designer • Developer • Visionary Creator
 
 ```yaml
 Name: Laxminivas Morishetty
-Role: Innovator & Designer
-Education:
-  Bachelor's in Computer Science Engineering - Cybersecurity
 
-Focus:
-  - Education Technology
-  - Innovation Systems
-  - AI & Smart Solutions
-  - UI/UX Design
-  - Entrepreneurship
+Role:
+  - Innovator
+  - Designer
+  - Entrepreneur
+  - Developer
+
+Education:
+  Bachelor's in Computer Science Engineering
+  Specialization: Cybersecurity
 
 Mission:
-  Creating meaningful change through
+  Creating meaningful impact through
   technology, education, and innovation.
+
+Interests:
+  - AI Systems
+  - Smart Innovation
+  - UI/UX Design
+  - App Development
+  - Leadership
 ```
 
 ---
 
-# 🚀 Who I Am
-
-A visionary mind shaping the future through innovation and purpose, passionate about bridging the gap between knowledge and real-world impact.
-
-Driven by creativity, problem-solving, and technology, I continuously strive to transform ideas into impactful solutions while inspiring growth and innovation.
-
----
-
-# 🛠 Skills & Expertise
-
 <div align="center">
 
-## 💻 Technical Skills
-
-<img src="https://skillicons.dev/icons?i=python,react,nextjs,html,css,js,mongodb,figma" />
+<img src="https://user-images.githubusercontent.com/74038190/212750337-47d27c4c-3d86-44c9-bb6b-0c9b5b7f5f85.gif" width="100%"/>
 
 </div>
 
----
+# 🚀 My Organizations
 
-## 🔹 Core Expertise
-
-- Frontend Development
-- Graphic Designing
-- UI/UX Design
-- Python Development
-- AI & Edge Tools
-- Mobile App Development
-- Multi-tech Innovation
-
----
-
-## 📚 Educational Contributions
-
-- Curriculum Development
-- Student Mentoring
-- Workshop Facilitation
-- Knowledge Sharing
-
----
-
-## 🎨 Creative & Marketing
-
-- Social Media Branding
-- Content Creation
-- Digital Marketing
-- Visual Storytelling
-
----
-
-## 🚀 Leadership & Innovation
-
-- Project Management
-- Team Leadership
-- Strategic Planning
-- Problem Solving
-
----
-
-# 📊 Achievements Overview
-
-<div align="center">
-
-| Achievement | Count |
-|---|---|
-| Technical Skills | 10+ |
-| Organizations | 4+ |
-| Years Experience | 3+ |
-| Dreams | ∞ |
-
-</div>
-
----
-
-# 🏢 My Organizations
+<table>
+<tr>
+<td width="50%">
 
 ## 📘 Padma Tutorials
 
-Educational platform providing quality tutorials and learning resources for students.
+Educational platform providing quality tutorials and learning resources.
 
 ✅ 2500+ Students Helped
 
----
+</td>
+
+<td width="50%">
 
 ## 💡 Smart & Light Innovation
 
-Technology innovation hub focused on smart and futuristic solutions.
+Technology innovation hub focused on futuristic solutions.
 
 ✅ 40+ Innovations
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ## 🌱 Wisdom Roots
 
-Knowledge-sharing platform fostering learning communities and growth.
+Knowledge-sharing community fostering learning and growth.
 
 ✅ 1000+ Connections
 
----
+</td>
+
+<td width="50%">
 
 ## 🎨 Nivas Edits
 
-Creative editing and digital design services bringing ideas to life.
+Creative editing and digital branding solutions.
 
 ✅ 50+ Projects
 
+</td>
+</tr>
+</table>
+
 ---
 
-# 🌍 Collective Impact
+# ⚒️ Tech Stack
 
 <div align="center">
 
-| Metric | Value |
-|---|---|
-| People Impacted | 1500+ |
-| Active Organizations | 4 |
-| Industries | 3 |
-| Projects Completed | 100+ |
+<img src="https://skillicons.dev/icons?i=react,nextjs,python,flask,nodejs,mongodb,tailwind,figma,git,github,vscode,firebase" />
 
 </div>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=laxminivas06&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxminivas06&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
 
 </div>
 
@@ -177,7 +131,7 @@ Creative editing and digital design services bringing ideas to life.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" />
+<img width="70%" src="https://streak-stats.demolab.com?user=laxminivas06&theme=transparent&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" />
 
 </div>
 
@@ -187,7 +141,23 @@ Creative editing and digital design services bringing ideas to life.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=laxminivas06&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# 🌍 Impact Overview
+
+<div align="center">
+
+| Metric | Value |
+|---|---|
+| Organizations | 4+ |
+| Students Helped | 2500+ |
+| Innovations | 40+ |
+| Projects | 100+ |
+| Dreams | ∞ |
 
 </div>
 
@@ -197,16 +167,20 @@ Creative editing and digital design services bringing ideas to life.
 
 <div align="center">
 
-<a href="mailto:morishettylaxminivas@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/laxminivas06">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Location-Hyderabad-blue?style=for-the-badge"/>
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:morishettylaxminivas@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -215,7 +189,11 @@ Creative editing and digital design services bringing ideas to life.
 
 # 💡 Vision
 
-> “Building bridges between ideas and impactful solutions.”
+<div align="center">
+
+### “Building bridges between ideas and impactful solutions.”
+
+</div>
 
 ---
 
@@ -223,11 +201,19 @@ Creative editing and digital design services bringing ideas to life.
 
 ```python
 while alive:
-    learn()
     innovate()
-    inspire()
     create()
+    inspire()
+    repeat()
 ```
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=laxminivas06&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
@@ -238,3 +224,5 @@ while alive:
 ⭐ Let's innovate and create meaningful impact together.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=120&section=footer"/>
