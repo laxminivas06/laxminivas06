@@ -95,72 +95,14 @@
 </div>
 
 <!-- Social Links with Enhanced Style -->
-<div style="
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-  flex-wrap: wrap;
-  margin-bottom: 2rem;
-">
-  <a href="https://github.com/laxminivas06" style="
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.75rem 1.25rem;
-    background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
-    color: #CBD5E1;
-    text-decoration: none;
-    border-radius: 8px;
-    border: 2px solid #475569;
-    transition: all 0.3s ease;
-    font-weight: 600;
-    font-size: 14px;
-  "
-  onmouseover="this.style.background='linear-gradient(135deg, #1E293B 0%, #334155 100%)'; this.style.borderColor='#CBD5E1'; this.style.boxShadow='0 8px 20px rgba(203, 213, 225, 0.2)';"
-  onmouseout="this.style.background='linear-gradient(135deg, #0F172A 0%, #1E293B 100%)'; this.style.borderColor='#475569'; this.style.boxShadow='none';"
-  >
-    <span>🐙</span> GitHub
-  </a>
+<div style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin-bottom: 2rem;">
+  <a href="https://github.com/laxminivas06" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.25rem; background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); color: #CBD5E1; text-decoration: none; border-radius: 8px; border: 2px solid #475569; transition: all 0.3s ease; font-weight: 600; font-size: 14px;" onmouseover="this.style.background='linear-gradient(135deg, #1E293B 0%, #334155 100%)'; this.style.borderColor='#CBD5E1'; this.style.boxShadow='0 8px 20px rgba(203, 213, 225, 0.2)';" onmouseout="this.style.background='linear-gradient(135deg, #0F172A 0%, #1E293B 100%)'; this.style.borderColor='#475569'; this.style.boxShadow='none';">🐙 GitHub</a>
 
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.75rem 1.25rem;
-    background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
-    color: #CBD5E1;
-    text-decoration: none;
-    border-radius: 8px;
-    border: 2px solid #475569;
-    transition: all 0.3s ease;
-    font-weight: 600;
-    font-size: 14px;
-  "
-  onmouseover="this.style.background='linear-gradient(135deg, #1E293B 0%, #334155 100%)'; this.style.borderColor='#CBD5E1'; this.style.boxShadow='0 8px 20px rgba(203, 213, 225, 0.2)';"
-  onmouseout="this.style.background='linear-gradient(135deg, #0F172A 0%, #1E293B 100%)'; this.style.borderColor='#475569'; this.style.boxShadow='none';"
-  >
-    <span>💼</span> LinkedIn
-  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.25rem; background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); color: #CBD5E1; text-decoration: none; border-radius: 8px; border: 2px solid #475569; transition: all 0.3s ease; font-weight: 600; font-size: 14px;" onmouseover="this.style.background='linear-gradient(135deg, #1E293B 0%, #334155 100%)'; this.style.borderColor='#CBD5E1'; this.style.boxShadow='0 8px 20px rgba(203, 213, 225, 0.2)';" onmouseout="this.style.background='linear-gradient(135deg, #0F172A 0%, #1E293B 100%)'; this.style.borderColor='#475569'; this.style.boxShadow='none';">📸 Instagram</a>
 
-  <a href="mailto:morishettylaxminivas@gmail.com" style="
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    padding: 0.75rem 1.25rem;
-    background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%);
-    color: #CBD5E1;
-    text-decoration: none;
-    border-radius: 8px;
-    border: 2px solid #475569;
-    transition: all 0.3s ease;
-    font-weight: 600;
-    font-size: 14px;
-  "
-  onmouseover="this.style.background='linear-gradient(135deg, #1E293B 0%, #334155 100%)'; this.style.borderColor='#CBD5E1'; this.style.boxShadow='0 8px 20px rgba(203, 213, 225, 0.2)';"
-  onmouseout="this.style.background='linear-gradient(135deg, #0F172A 0%, #1E293B 100%)'; this.style.borderColor='#475569'; this.style.boxShadow='none';"
-  >
-    <span>📧</span> Email
-  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.25rem; background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); color: #CBD5E1; text-decoration: none; border-radius: 8px; border: 2px solid #475569; transition: all 0.3s ease; font-weight: 600; font-size: 14px;" onmouseover="this.style.background='linear-gradient(135deg, #1E293B 0%, #334155 100%)'; this.style.borderColor='#CBD5E1'; this.style.boxShadow='0 8px 20px rgba(203, 213, 225, 0.2)';" onmouseout="this.style.background='linear-gradient(135deg, #0F172A 0%, #1E293B 100%)'; this.style.borderColor='#475569'; this.style.boxShadow='none';">💼 LinkedIn</a>
+
+  <a href="mailto:morishettylaxminivas@gmail.com" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.25rem; background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); color: #CBD5E1; text-decoration: none; border-radius: 8px; border: 2px solid #475569; transition: all 0.3s ease; font-weight: 600; font-size: 14px;" onmouseover="this.style.background='linear-gradient(135deg, #1E293B 0%, #334155 100%)'; this.style.borderColor='#CBD5E1'; this.style.boxShadow='0 8px 20px rgba(203, 213, 225, 0.2)';" onmouseout="this.style.background='linear-gradient(135deg, #0F172A 0%, #1E293B 100%)'; this.style.borderColor='#475569'; this.style.boxShadow='none';">📧 Email</a>
 </div>
 
 </div>
@@ -504,86 +446,101 @@ onmouseout="this.style.transform='translateY(0)'; this.style.borderColor='#47556
 <div align="center" style="margin: 2rem 0;">
 
 <div style="
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.25rem;
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0 1rem;
 ">
 
-<a href="https://github.com/laxminivas06" style="
+<a href="https://github.com/laxminivas06" title="GitHub Profile" style="
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 70px;
-  height: 70px;
+  padding: 1.5rem 1rem;
+  gap: 0.75rem;
   background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%);
   border: 2px solid #475569;
   border-radius: 12px;
   transition: all 0.3s ease;
   text-decoration: none;
-  font-size: 32px;
+  font-size: 48px;
+  color: #CBD5E1;
 "
-onmouseover="this.style.background='linear-gradient(135deg, #334155 0%, #1E293B 100%)'; this.style.borderColor='#64748B'; this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(100, 116, 139, 0.3)';"
+onmouseover="this.style.background='linear-gradient(135deg, #334155 0%, #1E293B 100%)'; this.style.borderColor='#64748B'; this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 24px rgba(100, 116, 139, 0.3)';"
 onmouseout="this.style.background='linear-gradient(135deg, #1E293B 0%, #0F172A 100%)'; this.style.borderColor='#475569'; this.style.transform='translateY(0)'; this.style.boxShadow='none';"
 >
-  🐙
+  <span style="font-size: 40px;">🐙</span>
+  <span style="font-size: 14px; font-weight: 700; color: #CBD5E1;">GitHub</span>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM" style="
+<a href="https://instagram.com/YOUR_INSTAGRAM" title="Instagram Profile" style="
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 70px;
-  height: 70px;
+  padding: 1.5rem 1rem;
+  gap: 0.75rem;
   background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%);
   border: 2px solid #475569;
   border-radius: 12px;
   transition: all 0.3s ease;
   text-decoration: none;
-  font-size: 32px;
+  font-size: 48px;
+  color: #CBD5E1;
 "
-onmouseover="this.style.background='linear-gradient(135deg, #334155 0%, #1E293B 100%)'; this.style.borderColor='#64748B'; this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(100, 116, 139, 0.3)';"
+onmouseover="this.style.background='linear-gradient(135deg, #334155 0%, #1E293B 100%)'; this.style.borderColor='#64748B'; this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 24px rgba(100, 116, 139, 0.3)';"
 onmouseout="this.style.background='linear-gradient(135deg, #1E293B 0%, #0F172A 100%)'; this.style.borderColor='#475569'; this.style.transform='translateY(0)'; this.style.boxShadow='none';"
 >
-  📸
+  <span style="font-size: 40px;">📸</span>
+  <span style="font-size: 14px; font-weight: 700; color: #CBD5E1;">Instagram</span>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" style="
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" title="LinkedIn Profile" style="
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 70px;
-  height: 70px;
+  padding: 1.5rem 1rem;
+  gap: 0.75rem;
   background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%);
   border: 2px solid #475569;
   border-radius: 12px;
   transition: all 0.3s ease;
   text-decoration: none;
-  font-size: 32px;
+  font-size: 48px;
+  color: #CBD5E1;
 "
-onmouseover="this.style.background='linear-gradient(135deg, #334155 0%, #1E293B 100%)'; this.style.borderColor='#64748B'; this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(100, 116, 139, 0.3)';"
+onmouseover="this.style.background='linear-gradient(135deg, #334155 0%, #1E293B 100%)'; this.style.borderColor='#64748B'; this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 24px rgba(100, 116, 139, 0.3)';"
 onmouseout="this.style.background='linear-gradient(135deg, #1E293B 0%, #0F172A 100%)'; this.style.borderColor='#475569'; this.style.transform='translateY(0)'; this.style.boxShadow='none';"
 >
-  💼
+  <span style="font-size: 40px;">💼</span>
+  <span style="font-size: 14px; font-weight: 700; color: #CBD5E1;">LinkedIn</span>
 </a>
 
-<a href="mailto:morishettylaxminivas@gmail.com" style="
+<a href="mailto:morishettylaxminivas@gmail.com" title="Send Email" style="
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 70px;
-  height: 70px;
+  padding: 1.5rem 1rem;
+  gap: 0.75rem;
   background: linear-gradient(135deg, #1E293B 0%, #0F172A 100%);
   border: 2px solid #475569;
   border-radius: 12px;
   transition: all 0.3s ease;
   text-decoration: none;
-  font-size: 32px;
+  font-size: 48px;
+  color: #CBD5E1;
 "
-onmouseover="this.style.background='linear-gradient(135deg, #334155 0%, #1E293B 100%)'; this.style.borderColor='#64748B'; this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(100, 116, 139, 0.3)';"
+onmouseover="this.style.background='linear-gradient(135deg, #334155 0%, #1E293B 100%)'; this.style.borderColor='#64748B'; this.style.transform='translateY(-8px)'; this.style.boxShadow='0 12px 24px rgba(100, 116, 139, 0.3)';"
 onmouseout="this.style.background='linear-gradient(135deg, #1E293B 0%, #0F172A 100%)'; this.style.borderColor='#475569'; this.style.transform='translateY(0)'; this.style.boxShadow='none';"
 >
-  📧
+  <span style="font-size: 40px;">📧</span>
+  <span style="font-size: 14px; font-weight: 700; color: #CBD5E1;">Email</span>
 </a>
 
 </div>
