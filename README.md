@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=260&section=header&text=LAXMINIVAS%20MORISHETTY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Education%20|%20Innovation%20|%20Entrepreneurship&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E293B,50:334155,75:475569,100:64748B&height=300&section=header&text=LAXMINIVAS%20MORISHETTY&fontSize=42&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Education%20|%20Innovation%20|%20Entrepreneurship&descAlignY=58&descSize=20"/>
 
-</div>
+<br/>
 
----
+<img src="https://avatars.githubusercontent.com/u/172295408?v=4" width="180" height="180" style="border-radius:50%;" />
 
 <h1 align="center">⚡ Innovator • Creator • Entrepreneur ⚡</h1>
 
@@ -12,11 +12,33 @@
 Building impactful solutions through technology, education, and innovation.
 </h3>
 
+<p align="center">
+
+<a href="https://github.com/laxminivas06">
+<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-334155?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-475569?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:morishettylaxminivas@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-64748B?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+</div>
+
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Automation+Builder;Founder+of+Multiple+Organizations;Passionate+Innovator" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=CBD5E1&center=true&vCenter=true&width=900&lines=Cybersecurity+Engineering+Student;Full+Stack+Developer;AI+%26+Automation+Builder;UI%2FUX+Designer;Founder+of+Multiple+Organizations;Passionate+Innovator" />
 
 </div>
 
@@ -29,9 +51,9 @@ Name: Laxminivas Morishetty
 
 Role:
   - Innovator
-  - Designer
   - Entrepreneur
   - Developer
+  - Designer
 
 Education:
   Bachelor's in Computer Science Engineering
@@ -41,12 +63,13 @@ Mission:
   Creating meaningful impact through
   technology, education, and innovation.
 
-Interests:
+Focus:
   - AI Systems
   - Smart Innovation
+  - Full Stack Development
   - UI/UX Design
-  - App Development
   - Leadership
+  - Entrepreneurship
 ```
 
 ---
@@ -61,45 +84,53 @@ Interests:
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 📘 Padma Tutorials
 
 Educational platform providing quality tutorials and learning resources.
 
-✅ 2500+ Students Helped
+✅ 2500+ Students Helped  
+✅ Academic Growth  
+✅ Student Development
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 💡 Smart & Light Innovation
 
-Technology innovation hub focused on futuristic solutions.
+Technology innovation hub focused on futuristic smart solutions.
 
-✅ 40+ Innovations
+✅ 40+ Innovations  
+✅ Smart Technology  
+✅ Future Systems
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🌱 Wisdom Roots
 
-Knowledge-sharing community fostering learning and growth.
+Knowledge-sharing community fostering growth and learning.
 
-✅ 1000+ Connections
+✅ 1000+ Connections  
+✅ Community Building  
+✅ Educational Impact
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## 🎨 Nivas Edits
 
 Creative editing and digital branding solutions.
 
-✅ 50+ Projects
+✅ 50+ Projects  
+✅ Creative Branding  
+✅ Visual Storytelling
 
 </td>
 </tr>
@@ -119,13 +150,19 @@ Creative editing and digital branding solutions.
 
 # 📊 GitHub Analytics
 
+<div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=laxminivas06&show_icons=true&theme=transparent&hide_border=true&title_color=CBD5E1&icon_color=94A3B8&text_color=E2E8F0&bg_color=0F172A" />
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxminivas06&layout=compact&theme=transparent&hide_border=true&title_color=CBD5E1&text_color=E2E8F0&bg_color=0F172A" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=laxminivas06&theme=transparent&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" />
+<img width="75%" src="https://streak-stats.demolab.com?user=laxminivas06&theme=transparent&hide_border=true&background=0F172A&stroke=94A3B8&ring=CBD5E1&fire=CBD5E1&currStreakLabel=E2E8F0" />
 
 </div>
 
@@ -135,7 +172,7 @@ Creative editing and digital branding solutions.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=laxminivas06&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=laxminivas06&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 
 </div>
 
@@ -145,7 +182,7 @@ Creative editing and digital branding solutions.
 
 <div align="center">
 
-| Metric | Value |
+| 🚀 Category | 📈 Value |
 |---|---|
 | Organizations | 4+ |
 | Students Helped | 2500+ |
@@ -162,19 +199,19 @@ Creative editing and digital branding solutions.
 <div align="center">
 
 <a href="https://github.com/laxminivas06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
 
 <a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
 <a href="mailto:morishettylaxminivas@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
 </a>
 
 </div>
@@ -191,21 +228,21 @@ Creative editing and digital branding solutions.
 
 ---
 
-# ⚡ Fun Fact
+# ⚡ Philosophy
 
 ```python
 while alive:
     innovate()
-    create()
     inspire()
-    repeat()
+    create()
+    evolve()
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=laxminivas06&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=laxminivas06&label=Profile+Views&color=64748B&style=for-the-badge" />
 
 </div>
 
@@ -215,8 +252,8 @@ while alive:
 
 ## 🚀 Thanks for Visiting My Profile
 
-⭐ Let's innovate and create meaningful impact together.
+### Let's innovate and create meaningful impact together.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E293B,50:334155,75:475569,100:64748B&height=120&section=footer"/>
