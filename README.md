@@ -119,13 +119,7 @@ Creative editing and digital branding solutions.
 
 # 📊 GitHub Analytics
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=laxminivas06&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxminivas06&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-
-</div>
 
 ---
 
