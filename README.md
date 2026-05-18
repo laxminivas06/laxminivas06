@@ -86,11 +86,7 @@ Passionate About:
 
 <img width="100%" src="https://streak-stats.demolab.com?user=laxminivas06&theme=transparent&hide_border=true&background=0D1117&stroke=94A3B8&ring=CBD5E1&fire=CBD5E1&currStreakLabel=E2E8F0" />
 
-<br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laxminivas06&show_icons=true&theme=transparent&hide_border=true&title_color=CBD5E1&icon_color=94A3B8&text_color=E2E8F0&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxminivas06&layout=compact&theme=transparent&hide_border=true&title_color=CBD5E1&text_color=E2E8F0&bg_color=0D1117"/>
 
 </div>
 
